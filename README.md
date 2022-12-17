@@ -1,1 +1,52 @@
-# Maria
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Maria The Illustrator</title>
+    <link rel="stylesheet" href="style mari.css">
+</head>
+<body>
+
+
+<a href="Masha's home page.html"  target="_self"><img src="avatara.jpg" alt="here must be my avatar" class="avatara"></a>
+
+<div class="container_buttons">
+    <a href="Gallery.html" target="_blank">Gallery</a>
+</div>
+<div class="container_buttons">
+    <a href="Orders.html" target="_blank">Orders</a>
+</div>
+<div class="container_buttons">
+    <a href="Masha's home page.html" target="_blank">Home</a>
+</div>
+
+<div class="thematic_bar">
+    <img src="козёл-шлем.jpg">
+    <img src="свин-шлем.jpg">
+</div>
+<div class="AD">
+    here must be my AD
+</div>
+    <div class="card">
+
+<div class="contacts">
+    <h2>Связаться со мной:</h2>
+    <form action="/">
+    <div class="contact-card">
+    <label for="name">Введите ваше имя...:</label>
+    <input type="text" id="name" placeholder="Enter your name, please.">
+</div>
+
+<div class="contact-card">
+    <label for="email">Введите ваш E-mail:</label>
+    <input type="text" id="email" placeholder="Enter your E-mail, please.">
+</div>
+
+<div class="contact-card">
+    <label for="text"> Введите ваше сообщение:</label>
+        <br>
+    <textarea id="text" cols="100" rows="20"></textarea>
+</div>
+    <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
