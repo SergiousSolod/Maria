@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="style mari.css">
-</head>
 <body>
 
 
