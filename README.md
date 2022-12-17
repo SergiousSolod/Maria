@@ -1,8 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title> Maria The Illustrator</title>
-    <link rel="stylesheet" href="style mari.css">
+<link rel="stylesheet" href="style mari.css">
 </head>
 <body>
 
